@@ -1,4 +1,6 @@
 # Contents Covered
+Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
+
 ## Introduction to Python
 - Introduction
 - Installation
