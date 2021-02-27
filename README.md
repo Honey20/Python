@@ -10,6 +10,7 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Comments
 - Variables
 - Data Types
+- input() Function
 - Output Formatting
 - Operators
 - Booleans
