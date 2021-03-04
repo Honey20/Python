@@ -19,3 +19,14 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - for Loop
 - Strings
 - is vs ==
+
+## List
+- Access list item
+- Iterating over a list
+- List Slicing
+- Change list items
+- List Methods
+- Nested Lists
+- sort() vs sorted()
+- Operator Module Functions
+- List Comprehensions
