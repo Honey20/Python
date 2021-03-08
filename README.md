@@ -30,3 +30,11 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - sort() vs sorted()
 - Operator Module Functions
 - List Comprehensions
+
+## Tuples
+- Access tuple values
+- Change tuple values
+- Packing and Unpacking a tuple
+- Loop through a tuple
+- Join tuples
+- Tuple Methods
