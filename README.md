@@ -38,3 +38,15 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Loop through a tuple
 - Join tuples
 - Tuple Methods
+
+## Dictionary
+- Creating a dictionary
+- How dictionaries are stored in memory
+- Access items in dictionary
+- Loop through a dictionary
+- Add items to dictionary
+- Change items in dictionary
+- Remove items in a dictionary
+- Copy a dictionary
+- Nested Dictionaries
+- Dictionary Methods
