@@ -48,5 +48,6 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Change items in dictionary
 - Remove items in a dictionary
 - Copy a dictionary
+- Sorting a dictionary
 - Nested Dictionaries
 - Dictionary Methods
