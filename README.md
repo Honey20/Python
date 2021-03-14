@@ -52,13 +52,13 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Nested Dictionaries
 - Dictionary Methods
 
-# Collections Module
+## Collections Module
 - deque
 - defaultdict
 - Counter
 - OrderedDict
 
-# Functions and Modules
+## Functions and Modules
 - Iterators
 - Functions
 - dir() Function
