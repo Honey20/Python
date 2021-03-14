@@ -51,3 +51,16 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Sorting a dictionary
 - Nested Dictionaries
 - Dictionary Methods
+
+# Collections Module
+- deque
+- defaultdict
+- Counter
+- OrderedDict
+
+# Functions and Modules
+- Iterators
+- Functions
+- dir() Function
+- filter() Function
+- Modules (os, sys, time, math)
