@@ -31,6 +31,13 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Operator Module Functions
 - List Comprehensions
 
+## Sets
+- Access Set Items
+- Add items to set
+- Remove Item
+- Loop items
+- Set Methods
+
 ## Tuples
 - Access tuple values
 - Change tuple values
@@ -64,3 +71,13 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - dir() Function
 - filter() Function
 - Modules (os, sys, time, math)
+
+## Error and Exceptions
+- Syntax Errors
+- Exception Hierarchy
+- Using try except
+- default exception block
+- finally block
+- else
+- raise an exception
+- assert keyword
