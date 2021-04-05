@@ -86,3 +86,11 @@ Installing JupyterLab or Jupyter Notebook: https://jupyter.org/install
 - Reading File
 - Writing to a file
 - Questions on File Handling
+
+## OOPS Concept (Part 1)
+- __init__ method
+- self parameter
+- Types of variables: class and instance
+- Types of methods: instance, class and static
+- __str__ and __repr__ methods
+- Some examples and questions on OOPS concept
